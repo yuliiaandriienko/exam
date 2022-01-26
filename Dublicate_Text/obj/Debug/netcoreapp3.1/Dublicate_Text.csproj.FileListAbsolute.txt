@@ -1,0 +1,13 @@
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/bin/Debug/netcoreapp3.1/Dublicate_Text.deps.json
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/bin/Debug/netcoreapp3.1/Dublicate_Text.runtimeconfig.json
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/bin/Debug/netcoreapp3.1/Dublicate_Text.runtimeconfig.dev.json
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/bin/Debug/netcoreapp3.1/Dublicate_Text.dll
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/bin/Debug/netcoreapp3.1/Dublicate_Text.pdb
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/obj/Debug/netcoreapp3.1/Dublicate_Text.csproj.AssemblyReference.cache
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/obj/Debug/netcoreapp3.1/Dublicate_Text.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/obj/Debug/netcoreapp3.1/Dublicate_Text.AssemblyInfoInputs.cache
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/obj/Debug/netcoreapp3.1/Dublicate_Text.AssemblyInfo.cs
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/obj/Debug/netcoreapp3.1/Dublicate_Text.csproj.CoreCompileInputs.cache
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/obj/Debug/netcoreapp3.1/Dublicate_Text.dll
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/obj/Debug/netcoreapp3.1/Dublicate_Text.pdb
+/Users/yuliia/Projects/Dublicate_Text/Dublicate_Text/obj/Debug/netcoreapp3.1/Dublicate_Text.genruntimeconfig.cache

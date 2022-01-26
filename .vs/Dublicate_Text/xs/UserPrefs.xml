@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{8237CA82-84E3-45BB-A1F2-122E501642E3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Dublicate_Text/Program.cs">
+    <Files>
+      <File FileName="Dublicate_Text/Program.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Dublicate_Text" expanded="True">
+            <Node name="Dublicate_Text" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Dublicate__Text FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
